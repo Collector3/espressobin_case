@@ -1,7 +1,11 @@
 # ESPRESSObin Case
 
+***Note***: You are looking at the source repository for the ESPRESSObin case. For the best out of printbed experience, please visit this object's [Thingiverse page](https://www.thingiverse.com/thing:2408222) and use the supplied files there.
+
 A case for the [ESPRESSObin board](https://www.amazon.com/ESPRESSObin-SBUD102-Single-Computer-Network/dp/B06Y3V2FBK
 ), designed for FFF/DM-based 3D printing without supports.
+
+# Summary
 
 Printing Notes: The idle temperature of the ESPRESSObin is quite warm (around ~53C in certain areas). Please consider printing this case in something like PETG (which has a higher glass transition temperature than PLA and flame-retardant/self-extinguishing properties).
 
