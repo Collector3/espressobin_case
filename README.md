@@ -25,10 +25,14 @@ Resolution: 0.2mm
 Notes:
 Printed using Prusa3D's 0.2mm Slic3r settings and stock PETG settings.
 
-Materials used:
+# Materials used
+
 Bottom case: Ultibots 1.75mm Black PETG
+
 Top cover: MadeSolid 1.75mm Ruby Red PET+ (with ~+10C on hotend)
+
 Legs: Ultibots 1.75mm Black PETG
+
 Leg covers: Ninjaflex 1.75mm Snow White
 
 # Previous Updates
